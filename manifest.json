@@ -1,40 +1,10 @@
 {
   "schema": "nexus-apps-v1",
   "apps": [
-    {
-      "id": "volos",
-      "name": "Volos LvGL",
-      "file": "firmwares/volos.bin",
-      "version": "1.0.0",
-      "url": "https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@main/firmwares/volos.bin"
-    },
-    {
-      "id": "slots",
-      "name": "Lucky Slots",
-      "file": "firmwares/slots.bin",
-      "version": "1.0.0",
-      "url": "https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@main/firmwares/slots.bin"
-    },
-    {
-      "id": "breakout",
-      "name": "Breakout",
-      "file": "firmwares/breakout.bin",
-      "version": "1.0.0",
-      "url": "https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@main/firmwares/breakout.bin"
-    },
-    {
-      "id": "flappy",
-      "name": "Flappy",
-      "file": "firmwares/flappy.bin",
-      "version": "1.0.0",
-      "url": "https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@main/firmwares/flappy.bin"
-    },
-    {
-      "id": "story",
-      "name": "TinyTale",
-      "file": "firmwares/story.bin",
-      "version": "1.0.0",
-      "url": "https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@main/firmwares/story.bin"
-    }
+    {"id":"volos","name":"Volos LvGL","file":"firmwares/volos.bin","version":"1.0.0","url":"https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@main/firmwares/volos.bin"},
+    {"id":"slots","name":"Lucky Slots","file":"firmwares/slots.bin","version":"1.0.0","url":"https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@main/firmwares/slots.bin"},
+    {"id":"breakout","name":"Breakout","file":"firmwares/breakout.bin","version":"1.0.0","url":"https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@main/firmwares/breakout.bin"},
+    {"id":"flappy","name":"Flappy","file":"firmwares/flappy.bin","version":"1.0.0","url":"https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@main/firmwares/flappy.bin"},
+    {"id":"story","name":"TinyTale","file":"firmwares/story.bin","version":"1.0.0","url":"https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@main/firmwares/story.bin"}
   ]
 }
