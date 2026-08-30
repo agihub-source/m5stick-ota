@@ -7,6 +7,13 @@
       "file": "firmwares/story.bin",
       "version": "1.6.0",
       "url": "https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@cac9c2c/firmwares/story.bin"
+    },
+    {
+      "id": "asr",
+      "name": "\u8bed\u97f3\u52a9\u624b",
+      "file": "firmwares/asr.bin",
+      "version": "0.1.0",
+      "url": "https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@cac9c2c/firmwares/asr.bin"
     }
   ]
 }
