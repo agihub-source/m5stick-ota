@@ -5,7 +5,7 @@
       "id": "story",
       "name": "TinyTale",
       "file": "firmwares/story.bin",
-      "version": "1.3.0",
+      "version": "1.4.0",
       "url": "https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@main/firmwares/story.bin"
     }
   ]
