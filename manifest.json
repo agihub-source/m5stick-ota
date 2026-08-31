@@ -12,8 +12,8 @@
       "id": "asr",
       "name": "ASR",
       "file": "firmwares/asr.bin",
-      "version": "0.1.0",
-      "url": "https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@37d34b3/firmwares/asr.bin"
+      "version": "0.1.1",
+      "url": "https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@v1.6.3/firmwares/asr.bin"
     }
   ]
 }
