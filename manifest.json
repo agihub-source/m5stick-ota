@@ -13,7 +13,7 @@
       "name": "ASR",
       "file": "firmwares/asr.bin",
       "version": "0.1.2",
-      "url": "PIN_PLACEHOLDER"
+      "url": "https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@a91f47e/firmwares/asr.bin"
     }
   ]
 }
