@@ -20,7 +20,7 @@
       "name": "NL2LED",
       "file": "firmwares/nl2led.bin",
       "version": "0.1.0",
-      "url": "PIN_PLACEHOLDER"
+      "url": "https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@64ae240/firmwares/nl2led.bin"
     }
   ]
 }
