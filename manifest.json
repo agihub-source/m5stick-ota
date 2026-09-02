@@ -14,6 +14,20 @@
       "file": "firmwares/asr.bin",
       "version": "0.1.2",
       "url": "https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@a91f47e/firmwares/asr.bin"
+    },
+    {
+      "id": "ringtoss",
+      "name": "水中套圈圈",
+      "file": "firmwares/ringtoss.bin",
+      "version": "0.1.0",
+      "url": "https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@004fea824ad7b84c9fdafd3b3bb34d7be96c45c0/firmwares/ringtoss.bin"
+    },
+    {
+      "id": "sanospeak",
+      "name": "SanoSpeak TTS",
+      "file": "firmwares/sanospeak.bin",
+      "version": "0.1.0",
+      "url": "https://cdn.jsdelivr.net/gh/agihub-source/m5stick-ota@004fea824ad7b84c9fdafd3b3bb34d7be96c45c0/firmwares/sanospeak.bin"
     }
   ]
 }
